@@ -4,8 +4,10 @@
 
 #### I'm a Web Developer | MERN-Stack Developer.
 
-- 🔭 I’m currently working on this page.
-- 🌱 I’m currently learning javascript
+- 🔭 I'm currently working on self development.
+- 🌱 I’m currently learning javascript.
+- 🥅 2022 Goals: Learn TypeScript, Next.js, Data structure, algorithm 😍
+- ⚡ Fun fact: I love to learn something new and traveling !
 - 📫 How to reach me: https://abu-sayed.netlify.app/ devabusayed69@gmail.com
 
 I'm a dedicated web developer and hard worker. I am from Bangladesh but I currently live in Saudi Arabia. Now, I am looking for my first job.
