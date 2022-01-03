@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Abu Sayed
 
-#### I'm a Web Developer | MERN-Stack Developer.
+#### I'm a Web Developer | MERN-Stack Developer. [Abu-Sayed's Portfolio](https://abu-sayed.netlify.app/) | [Resume](https://drive.google.com/file/d/1pAeLd5W0ZD4dRoCSbh0RGYaEof6fOHrU/view)
 
 - 🔭 I'm currently working on self development.
 - 🌱 I’m currently learning javascript.
