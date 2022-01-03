@@ -52,13 +52,15 @@ and Strong knowledge of Responsive Design, Functionality, Authentication, Databa
 
 </p>
 
+
+   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abu-sayed-1&show_icons=true)
+
+
 <p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abu-sayed-1&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abu-sayed-1)](https://github.com/anuraghazra/github-readme-stats)
+   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abu-sayed-1)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abu-sayed-1)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abu-sayed-1)
 
 
 <h5 align="left">Contact with Me</h5>
