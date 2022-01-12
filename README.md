@@ -12,7 +12,9 @@
 
 I'm a dedicated web developer and hard worker. I am from Bangladesh but I currently live in Saudi Arabia. Now, I am looking for my first job.
 
-and Strong knowledge of Responsive Design, Functionality, Authentication, Database, Git GitHub, Deploy, etc. I am open-minded and I try to learn new things quickly, and I always try to keep myself updated, I want to become the best programmer and dedicate all my skills and talents to developing high-quality and unique websites.
+I have strong Efficiency of Responsive Web Design, Functionality, Authentication, REST API, Database, Git GitHub, Deploy, Google Search, etc, I try to write clean and scalable code. I have been attached in programming for over one and a half years.
+
+and I am open-minded. I try to learn new things quickly, and I always try to keep myself updated, I want to become the best programmer and dedicate all my skills and talents to developing high-quality and unique websites.
 
 <h3 align="left">My Skills</h3>
 <h5 align="left">Technical Skills:</h5>
