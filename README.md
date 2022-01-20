@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Abu Sayed
 
-#### I'm a Web Developer | MERN-Stack Developer. [Abu-Sayed's Portfolio](https://abu-sayed.netlify.app/) | [Resume](https://drive.google.com/file/d/1xpug-Y23EIvioaF9xhw0o6ep17ShsibT/view) | [LinkedIn](https://www.linkedin.com/in/dev-abu-sayed)
+#### I'm a Web Developer | MERN-Stack Developer. [Abu-Sayed's Portfolio](https://abu-sayed.netlify.app/) | [Resume](https://drive.google.com/file/d/1VY5jDzK7VFUahN5sMKBCLyTvru5fas0R/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/dev-abu-sayed)
 
 - 🔭 I'm currently working on self development.
 - 🌱 I’m currently learning javascript.
@@ -12,7 +12,7 @@
 
 I'm a dedicated web developer and hard worker. I am from Bangladesh but I currently live in Saudi Arabia. Now, I am looking for my first job.
 
-I have strong Efficiency of Responsive Web Design, Functionality, Authentication, REST API, Database, Git GitHub, Deploy, Google Search, etc, and I try to write clean and scalable code. I have been attached in programming for over one and a half years.
+I have strong Proficiency of Responsive Web Design, Functionality, Authentication, REST API, Database, Git GitHub, Deploy, Google Search, etc, and I try to write clean and scalable code. I have been attached in programming for over one and a half years.
 
 and I am open-minded. I try to learn new things quickly, and I always try to keep myself updated, I want to become the best programmer and dedicate all my skills and talents to developing high-quality and unique websites.
 
