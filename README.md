@@ -1,4 +1,4 @@
-![I'm a Web Developer | MERN-Stack Developer.](https://media-exp1.licdn.com/dms/image/C4D16AQFGlqFFfShThg/profile-displaybackgroundimage-shrink_350_1400/0/1636308575584?e=1646870400&v=beta&t=CkO2hHMJJ51tPfrzDs54KoGXtu_-e1x0TTTnYkqR6Ow)
+![I'm a Web Developer | MERN-Stack Developer.](https://pbs.twimg.com/profile_banners/1457467822200721416/1636324863/1500x500)
 
 ### Hi there 👋, I'm Abu Sayed
 
