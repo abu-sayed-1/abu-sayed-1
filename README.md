@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Abu Sayed
 
-#### I'm a Web Developer | MERN-Stack Developer. [Abu-Sayed's Portfolio](https://abu-sayed.netlify.app/) | [Resume](https://drive.google.com/file/d/1VY5jDzK7VFUahN5sMKBCLyTvru5fas0R/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/dev-abu-sayed)
+#### I'm a Web Developer | MERN-Stack Developer. [Abu-Sayed's Portfolio](https://abu-sayed.netlify.app/) | [Resume](https://drive.google.com/file/d/1D2nU6fIUFtliFRMTMMhVqzdnkvxjIkyv/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/dev-abu-sayed)
 
 - 🔭 I'm currently working on self development.
 - 🌱 I’m currently learning javascript.
@@ -39,6 +39,7 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
   <img src="https://img.shields.io/badge/restapi-0082c6?style=for-the-badge&logo=restapi&logoColor=white" />
   <img src="https://img.shields.io/badge/axios-854196?style=for-the-badge&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/sass/scss-E34F96?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 <h5 align="left">Tools:</h5>
