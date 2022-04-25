@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Abu Sayed
 
-#### I'm a Web Developer | MERN-Stack Developer. [Abu-Sayed's Portfolio](https://abu-sayed.netlify.app/) | [Resume](https://drive.google.com/file/d/1D2nU6fIUFtliFRMTMMhVqzdnkvxjIkyv/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/dev-abu-sayed)
+#### I'm a Web Developer | MERN-Stack Developer. | [Abu-Sayed's Portfolio](https://abu-sayed.netlify.app/) | [Resume](https://drive.google.com/file/d/1D2nU6fIUFtliFRMTMMhVqzdnkvxjIkyv/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/dev-abu-sayed)
 
 - 🔭 I'm currently working on self development.
 - 🌱 I’m currently learning javascript.
@@ -72,6 +72,9 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
 <h5 align="left">Contact with Me</h5>
 <a href="https://www.linkedin.com/in/dev-abu-sayed"  target="blank">
  <img src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/abusayed83"  target="blank">
+ <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://abu-sayed.netlify.app/"  target="blank">
  <img src="https://img.shields.io/badge/Website-204895?style=for-the-badge&logo=Website&logoColor=white" />
