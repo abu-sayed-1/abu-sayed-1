@@ -76,6 +76,12 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
 <a href="https://www.facebook.com/abusayed83"  target="blank">
  <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
+<a href="https://www.instagram.com/abu_sayed58/"  target="blank">
+ <img src="https://img.shields.io/badge/instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://twitter.com/abu_sayed69"  target="blank">
+ <img src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 <a href="https://abu-sayed.netlify.app/"  target="blank">
  <img src="https://img.shields.io/badge/Website-204895?style=for-the-badge&logo=Website&logoColor=white" />
 </a>
